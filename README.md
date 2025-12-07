@@ -34,4 +34,4 @@ The Python script `analyze_data.py` completes all required steps:
 
 ### 1. Install pandas
 
-### **2. Run the Python script
+### 2. Run the Python script
